@@ -20,8 +20,8 @@ Dataset link:- https://www.kaggle.com/datasets/salader/dogs-vs-cats
 ## Accuracy and Loss 📈
 | Model      | Accuracy | Loss    |
 |------------|----------|---------|
-| VGG16    | 0.969     | 0.074   |
-| CNN    | 0.989     | 0.035    |
+| VGG16    | 0.934    | 0209   |
+| CNN    | 0.76     | 1.53    |
 
 
 
