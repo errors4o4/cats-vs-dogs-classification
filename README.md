@@ -1,10 +1,10 @@
 
-# cats😹 vs dog🐶 classification
+# cats🐱 vs dog🐶 classification
 
 Cats-vs-Dogs Classification using CNN and VGG16.
 
 
-## Dataset 📅
+## Dataset 
 Dataset link:- https://www.kaggle.com/datasets/salader/dogs-vs-cats 
 
 ## Library 
